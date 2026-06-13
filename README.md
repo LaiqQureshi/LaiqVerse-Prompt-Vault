@@ -1,3 +1,7 @@
+> ⚡ A living AI × Design × Creativity system by LaiqVerse  
+> Updated continuously with prompts, systems, and creative intelligence.
+
+---
 # LaiqVerse Prompt Vault
 
 A curated system of AI prompts, visual frameworks, and creative intelligence designed for the new era of creators.
