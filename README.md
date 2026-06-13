@@ -1,4 +1,4 @@
-> ⚡ A living AI × Design × Creativity system by LaiqVerse  
+A structured AI prompt system for creators, designers, and AI thinkers.
 > Updated continuously with prompts, systems, and creative intelligence.
 
 ---
